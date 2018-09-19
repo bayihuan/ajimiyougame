@@ -1,0 +1,191 @@
+{
+  "ID": "9229572e-389f-42e0-9d5f-0bd03f9833b3",
+  "Version": "3.10.0.0",
+  "Name": "TipUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "确定",
+            "TextColor": {},
+            "Scale9Enable": true,
+            "Scale9OriginX": 9,
+            "Scale9OriginY": 6,
+            "Scale9Width": 10,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 304.6594,
+              "Y": 544.3557
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4062,
+              "Y": 0.4081
+            },
+            "PreSize": {
+              "X": 0.0373,
+              "Y": 0.015
+            },
+            "LeftMargin": 290.6594,
+            "RightMargin": 431.3406,
+            "TopMargin": 779.6443,
+            "BottomMargin": 534.3557,
+            "Tag": 6,
+            "ActionTag": 1100994780,
+            "Size": {
+              "X": 28.0,
+              "Y": 20.0
+            },
+            "Name": "btn_sure",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "取消",
+            "TextColor": {},
+            "Scale9Enable": true,
+            "Scale9OriginX": 9,
+            "Scale9OriginY": 6,
+            "Scale9Width": 10,
+            "Scale9Height": 8,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 473.9969,
+              "Y": 546.6021
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.632,
+              "Y": 0.4097
+            },
+            "PreSize": {
+              "X": 0.0373,
+              "Y": 0.015
+            },
+            "LeftMargin": 459.9969,
+            "RightMargin": 262.0031,
+            "TopMargin": 777.3979,
+            "BottomMargin": 536.6021,
+            "Tag": 7,
+            "ActionTag": 1955141829,
+            "Size": {
+              "X": 28.0,
+              "Y": 20.0
+            },
+            "Name": "btn_cancle",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "这个是内容",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 384.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.512,
+              "Y": 0.4798
+            },
+            "PreSize": {
+              "X": 0.1333,
+              "Y": 0.0172
+            },
+            "LeftMargin": 334.0,
+            "RightMargin": 316.0,
+            "TopMargin": 682.5,
+            "BottomMargin": 628.5,
+            "Tag": 8,
+            "ActionTag": -901978318,
+            "Size": {
+              "X": 100.0,
+              "Y": 23.0
+            },
+            "Name": "lbl_content",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

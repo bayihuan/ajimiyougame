@@ -1,0 +1,23 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "noCache" : false,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d","cocostudio","extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/utils/UIManager.js",
+        "src/views/TipUI.js",
+        "src/views/MainUI.js",
+        "src/views/FileUI.js",
+        "src/views/RoleUI.js",
+        "src/app.js"
+    ]
+}
