@@ -1,0 +1,74 @@
+<Solution>
+  <PropertyGroup Name="GameModelToolsUI" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="images">
+          <Folder Name="bg">
+            <Image Name="loader_bg.jpg" />
+          </Folder>
+          <Folder Name="loading">
+            <Image Name="logo_save_1.png" />
+            <Image Name="logo_save_2.png" />
+            <Image Name="logo_save_3.png" />
+            <Image Name="logo_save_4.png" />
+            <Image Name="logo_save_5.png" />
+            <Image Name="logo_save_6.png" />
+            <Image Name="logo_save_7.png" />
+            <Image Name="logo_save_8.png" />
+          </Folder>
+          <Folder Name="role">
+            <Folder Name="a04_man01">
+              <Folder Name="a04_man01_default">
+                <Image Name="a04_face_man01_angerDefault.png" />
+                <Image Name="a04_face_man01_defaultDefault.png" />
+                <Image Name="a04_face_man01_seriousDefault.png" />
+                <Image Name="a04_model_man01_default.png" />
+              </Folder>
+              <Folder Name="a04_man01_pajamas">
+                <Image Name="a04_model_man01_pajamas.png" />
+              </Folder>
+              <Folder Name="a04_man01_pocket">
+                <Image Name="a04_face_man01_defaultPocket.png" />
+                <Image Name="a04_face_man01_doubtPocket.png" />
+                <Image Name="a04_face_man01_smilePocket.png" />
+                <Image Name="a04_model_man01_pocket.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="a04_man02">
+              <Folder Name="a04_man02_default">
+                <Image Name="a04_face_man02_defaultDefault.png" />
+                <Image Name="a04_face_man02_smileDefault.png" />
+                <Image Name="a04_face_man02_worryDefault.png" />
+                <Image Name="a04_model_man02_default.png" />
+              </Folder>
+              <Folder Name="a04_man02_droop">
+                <Image Name="a04_face_man02_angerDroop.png" />
+                <Image Name="a04_face_man02_defaultDroop.png" />
+                <Image Name="a04_model_man02_droop.png" />
+              </Folder>
+              <Folder Name="a04_man02_sweater">
+                <Image Name="a04_model_man02_sweater.png" />
+              </Folder>
+            </Folder>
+            <Folder Name="a04_minorRole">
+              <Image Name="a04_man01_silhouette.png" />
+              <Image Name="a04_man02_silhouette.png" />
+              <Image Name="a04_role_man03_default.png" />
+              <Image Name="a04_role_man06_default.png" />
+              <Image Name="a04_role_woman01_default.png" />
+              <Image Name="a04_role_woman02_default.png" />
+              <Image Name="a04_role_woman05_default.png" />
+              <Image Name="a04_role_woman06_default.png" />
+            </Folder>
+          </Folder>
+        </Folder>
+        <Project Name="FileUI.csd" Type="Layer" />
+        <Project Name="LoadingUI.csd" Type="Layer" />
+        <Project Name="MainUI.csd" Type="Layer" />
+        <Project Name="TipUI.csd" Type="Layer" />
+        <Project Name="RoleUI.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

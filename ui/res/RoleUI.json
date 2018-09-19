@@ -1,0 +1,123 @@
+{
+  "ID": "c0922208-30e0-43fb-afbe-c2a4d8c803d5",
+  "Version": "3.10.0.0",
+  "Name": "RoleUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 48,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "images/role/a04_man01/a04_man01_default/a04_model_man01_default.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 381.53,
+              "Y": 704.7825
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5087,
+              "Y": 0.5283
+            },
+            "PreSize": {
+              "X": 1.4587,
+              "Y": 1.5337
+            },
+            "LeftMargin": -165.47,
+            "RightMargin": -178.53,
+            "TopMargin": -393.7825,
+            "BottomMargin": -318.2175,
+            "Tag": 50,
+            "ActionTag": 919803413,
+            "Size": {
+              "X": 1094.0,
+              "Y": 2046.0
+            },
+            "Name": "img_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "images/role/a04_man01/a04_man01_default/a04_face_man01_defaultDefault.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 374.3213,
+              "Y": 1058.7502
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.7937
+            },
+            "PreSize": {
+              "X": 0.6373,
+              "Y": 0.2324
+            },
+            "LeftMargin": 135.3213,
+            "RightMargin": 136.6787,
+            "TopMargin": 120.2498,
+            "BottomMargin": 903.7502,
+            "Tag": 51,
+            "ActionTag": 1978698595,
+            "Size": {
+              "X": 478.0,
+              "Y": 310.0
+            },
+            "Name": "img_face",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "images/role/a04_man01/a04_man01_default/a04_face_man01_defaultDefault.png",
+        "images/role/a04_man01/a04_man01_default/a04_model_man01_default.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
